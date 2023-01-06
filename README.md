@@ -8,7 +8,7 @@
       <table> 
         <tbody>
           <tr>
-            <tr><td rowspan="10"> <img src="ajay.gif" alt="Ajay Profile Pic" width="100" height="100"> </td> </tr>
+            <tr><td rowspan="10"> <img src="images/aj.png" alt="Ajay Profile Pic" width="100" height="100"> </td> </tr>
             <tr Valign="Top"><td height="10"> Name : </td> <td><em><b> N.Ajayender Raj </b></em> </td> </tr>
             <tr Valign="Top"><td> Phone :</td> <td> <em><b>9640000252 </b></em> </td> </tr>
           </tr>
