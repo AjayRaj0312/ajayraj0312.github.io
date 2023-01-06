@@ -17,7 +17,6 @@
       </table>
               <h4>Basically i am system admin, now i want to become fullstack developer </h4>          
               <h4><em>Technologies Aware</em></h4>
-         
               <ol>
                 <li>Windows System Admin</li>  
                 <li>Linux System Admin</li>
@@ -34,9 +33,7 @@
           
         </tbody>
       </table>
-    
-
-      <!---<ul>
+          <!---<ul>
         <li>Windows System Admin</li>  
         <li>Linux System Admin</li>
         <li>Backup Admin</li>
